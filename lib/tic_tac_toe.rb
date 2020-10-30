@@ -53,14 +53,6 @@ def turn(board)
   end
 end
 
-def play(board)
-  x = 0
-  while x != 9
-    x += 1
-    turn(board)
-  end
-end
-
 WIN_COMBINATIONS =[ [0,1,2] , [3,4,5] , [6,7,8] , [0,3,6] , [1,4,7] , [2,5,8] , [0,4,8] , [2,4,6] ]
 
 def won?(board)
@@ -112,4 +104,8 @@ def winner(board)
   else
     return "O"
   end
+end
+
+def play(board)
+
 end
