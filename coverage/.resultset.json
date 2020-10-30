@@ -4,11 +4,11 @@
       "/home/risible-caller-2137/tic-tac-toe-rb-online-web-sp-000/lib/tic_tac_toe.rb": [
         null,
         1,
-        7,
-        7,
-        7,
-        7,
-        7,
+        5,
+        5,
+        5,
+        5,
+        5,
         null,
         null,
         1,
@@ -16,7 +16,7 @@
         null,
         null,
         1,
-        6,
+        3,
         null,
         null,
         1,
@@ -51,7 +51,7 @@
         3,
         3,
         2,
-        2,
+        0,
         null,
         1,
         null,
@@ -115,6 +115,6 @@
         null
       ]
     },
-    "timestamp": 1604094583
+    "timestamp": 1604094673
   }
 }
